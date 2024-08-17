@@ -1,0 +1,2 @@
+Question = Design a simple banking system in java that support operation like creating an account
+           depositing money,withdraw-money and checking balance,using switch case and each operation specified in separate method
